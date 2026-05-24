@@ -153,7 +153,7 @@ python eda_script.py
 
 ## Harsh Giri
 
-### Data Analyst | Python Developer | AI/ML Enthusiast
+### Data Analyst | Python Programmer | AI/ML Enthusiast
 
 - 📊 Passionate about Data Analytics & Visualization
 - 🚀 Exploring AI & Machine Learning
